@@ -51,7 +51,7 @@ public class NSSaudacao: NSObject {
         return "Boa noite!"
     }
     
-    public func mensagemWhatsApp() -> String {
+    public class func mensagemWhatsApp() -> String {
         
         // Resgatar o período atual
         let periodo = NSSaudacao.definirPeriodo()
