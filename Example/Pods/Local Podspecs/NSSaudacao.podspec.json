@@ -1,7 +1,7 @@
 {
   "name": "NSSaudacao",
   "version": "0.1.0",
-  "summary": "A short description of NSSaudacao.",
+  "summary": "Pod de teste para aula na Quaddro.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/lgdomingues/NSSaudacao",
   "license": {
@@ -15,6 +15,7 @@
     "git": "https://github.com/lgdomingues/NSSaudacao.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/@leguasco",
   "platforms": {
     "ios": "8.0"
   },
